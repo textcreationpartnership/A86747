@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition and desires of the commanders, masters, mariners, younger brothers and sea-men of the shipping belonging to the river of Thames (whose names are subscribed to the number of 558), presented to the Right Honourable the Lords and Commons assembled in Parliament, on Thursday the 29 of June, 1648. Together with all their transactions concerning a personall treaty with His Majesty : and their undertaking for the timely reducing of the revolted ships, &amp;c. John Kersey, Clerk of Trinity-House. With deliberate answers of the Lords and Commons suitable to the importance of the said petition. John Browne Cler. Parliamentorum. Henry Elsynge Cler. Parl. Dom. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86747</idno>
+            <idno type="STC">Wing H3432</idno>
+            <idno type="STC">Thomason E450_21</idno>
+            <idno type="EEBO-CITATION">99864584</idno>
+            <idno type="PROQUEST">99864584</idno>
+            <idno type="VID">161910</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161910)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E450[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition and desires of the commanders, masters, mariners, younger brothers and sea-men of the shipping belonging to the river of Thames (whose names are subscribed to the number of 558), presented to the Right Honourable the Lords and Commons assembled in Parliament, on Thursday the 29 of June, 1648. Together with all their transactions concerning a personall treaty with His Majesty : and their undertaking for the timely reducing of the revolted ships, &amp;c. John Kersey, Clerk of Trinity-House. With deliberate answers of the Lords and Commons suitable to the importance of the said petition. John Browne Cler. Parliamentorum. Henry Elsynge Cler. Parl. Dom. Com.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Georg Lindsey, and are to be sold at his Shop at London-Stone,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:161910:1" rendition="simple:additions"/>
+The Humble Petition and Deſires OF THE Commanders, Maſters, Mariners, Younger Brothers and Sea-men of the Shipping belonging to the River of <hi>Thames</hi> (whoſe names are ſubſcribed to the number of 558), <hi>PRESENTED</hi> To the Right Honourable The LORDS and COMMONS aſſembled in PARLIAMENT, on <hi>Thurſday</hi> the 29 of <hi>June,</hi> 1648.</p>
+            <p>Together with all their <hi>Tranſacti<g ref="char:EOLhyphen"/>ons</hi> concerning a Perſonall TREATY with His MAIESTY: And their undertaking for the timely reducing of the revolted SHIPS, &amp;c.</p>
+            <p>
+               <hi>John Kerſey, Clerk of Trinity-Houſe.</hi>
+            </p>
+            <p>With deliberate Anſwers of the LORDS and COMMONS ſutable to the importance of the ſaid PETITION.</p>
+            <p>
+               <hi>John Browne Cler. Parliamentorum.</hi>
+            </p>
+            <p>
+               <hi>Henry Elſynge Cler. Parl. Dom. Com.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Lindſey,</hi> and are to be ſold at his Shop at <hi>London-Stone,</hi> 1648.</p>
+            <pb facs="tcp:161910:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="3" facs="tcp:161910:2"/>
+            <head>
+               <hi>THE H<g ref="char:V">Ʋ</g>MBLE TENDER and Declaration of many wel-affected Mariners and Seamen, Commanders of Ships and members of the Trinity-Houſe, li<g ref="char:EOLhyphen"/>ving in and about the City of</hi> LONDON,</head>
+            <head type="sub">
+               <hi>Preſented to the Maſter, Wardens, and Aſſiſtants of the ſaid Trinity-Houſe the</hi> 21 <hi>of June,</hi> 1648.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is humbly offered by us whoſe names are here under-written, be<g ref="char:EOLhyphen"/>ing Mariners and Seamen, That there may be forthwith a Petition drawn in the behalf of Seamen and Mari<g ref="char:EOLhyphen"/>ners, and preſented to the Honourable Hou<g ref="char:EOLhyphen"/>ſes of Parliament: wherein our humble de<g ref="char:EOLhyphen"/>ſires may be repreſented for a perſonal Trea<g ref="char:EOLhyphen"/>tie with His Majeſty, as the onely remedy for the preſent diſtempers of this diſtreſſed
+<pb n="4" facs="tcp:161910:3"/>
+Kingdom, and the reducing of the Shipping revolted from their truſt. And that it is hum<g ref="char:EOLhyphen"/>bly conceived by us, that we are obliged and bound, according to the Proteſtation and ſo<g ref="char:EOLhyphen"/>lemn League and Covenant formerly taken by every of us, to maintain and defend with our lives, powers and eſtates the true reform<g ref="char:EOLhyphen"/>ed Proteſtant Religion, his Majeſties Royall Perſon, Honour and Eſtate, and alſo the pow<g ref="char:EOLhyphen"/>er and Priviledges of Parliament. And we do further declare, That if it ſhall appear that a<g ref="char:EOLhyphen"/>ny of thoſe revolted Ships ſhall indeavour to impede or hinder the Kings perſonal Treaty with his two Houſes of Parliament, that we will unanimouſly indeavour with our lives and fortunes to bring them to condign pu<g ref="char:EOLhyphen"/>niſhment, according to our Covenant and Proteſtation formerly taken as aforeſaid.</p>
+            <closer>
+               <dateline>Witneſſe our hands <date>the day and yeer above<g ref="char:EOLhyphen"/>ſaid.</date>
+               </dateline>
+               <signed>
+                  <hi>Subſcribed by</hi> 90 <hi>eminent Commanders and Sea-men as aforeſaid.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="5" facs="tcp:161910:3"/>
+            <head>To the Right Worſhipful the Ma<g ref="char:EOLhyphen"/>ſter, Wardens, and Aſſiſtants of the <hi>Trinity-houſe</hi> of <hi>Debtford</hi> STROND:</head>
+            <head type="sub">The humble Petition of the younger Brothers of this Corporation, and the other Sea-men taking charge, whoſe names are ſubſcribed to the Petition annexed.</head>
+            <opener>Sheweth,</opener>
+            <p>THat they having a deep ſenſe of the manifold miſeries this Kingdom is like to ſuffer by reaſon of the many Armies now on foot, and the revolting of the Fleet, which might be prevented as we humbly conceive, in caſe the Honourable Houſes of Parliament would be pleaſed to admit of a ſpeedy per<g ref="char:EOLhyphen"/>ſonal Treaty to be had between his Majeſtie and them, which is the ſum of all the preten<g ref="char:EOLhyphen"/>ces of all thoſe at this time in arms againſt the Parliament, as alſo of the Fleet: We there<g ref="char:EOLhyphen"/>fore
+<pb n="6" facs="tcp:161910:4"/>
+the Petitioners being not of the leaſt concernment, nor the leaſt concerned, do earneſtly deſire that you will be pleaſed forth with to joyn with us in preſenting the Petition herewith delivered to the Honoura<g ref="char:EOLhyphen"/>ble Houſes of Parliament; and that you will likewiſe be pleaſed to appoint ſome one of you to ſpeak unto our Petition at the time of the delivery thereof, whereby the Houſes may be informed how many poore in and a<g ref="char:EOLhyphen"/>bout <hi>London</hi> ſubſiſt onely by the ſea-trade, who, if once neceſsitated by want, will know no government.</p>
+            <p>That it cannot be imagined that the Sea<g ref="char:EOLhyphen"/>men of <hi>England,</hi> who are as it were in a Fra<g ref="char:EOLhyphen"/>ternity will be drawn to fight one againſt a<g ref="char:EOLhyphen"/>nother, ſince both pretend and deſire one and the ſelf ſame thing: The deſire of a Perſo<g ref="char:EOLhyphen"/>nall Treaty by the revolted ſhips, being no other then is earneſtly deſired by the gene<g ref="char:EOLhyphen"/>rality of all the Seamen.</p>
+            <p>The inlarging of all which we leave to your greater wiſdoms and experience.</p>
+            <closer>
+               <signed>
+                  <hi>And we ſhall pray,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="7" facs="tcp:161910:4"/>
+            <head>TO The Right Honorable The LORDS &amp; COMMONS now Aſſembled in PARLIAMENT:</head>
+            <head type="sub">The humble Petition of the Commanders, Maſters and Mariners of the Shipping belonging to the River of Thames, whoſe names are here-under ſubſcribed;</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat your Petitioners have to this time faithfully aſſiſted (according to their Oaths and ſeverall undertakings) in the de<g ref="char:EOLhyphen"/>fence of this Kingdom, and for the preſerva<g ref="char:EOLhyphen"/>tion of His Majeſtie and both Houſes of Par<g ref="char:EOLhyphen"/>liament, in their juſt Rights and Priviledges, wherein they have cheerfully adventured their lives, and ſpent much of their eſtates: And your Petitioners cannot but acquaint
+<pb n="8" facs="tcp:161910:5"/>
+this Honourable Aſſembly, that they had of late more then hopes, that ſince His Maje<g ref="char:EOLhyphen"/>ſties evill Councell were removed from him, and no face of an enemy appearing to ob<g ref="char:EOLhyphen"/>ſtruct, That by the ſetling of his Majeſty in his juſt Rights, this miſerable diſtreſſed King<g ref="char:EOLhyphen"/>dom might have enjoyed a happy and laſting Peace: But to the great terrour and unſpeak<g ref="char:EOLhyphen"/>able grief of your Petitioners, they find them<g ref="char:EOLhyphen"/>ſelves in a far worſe condition then ever, un<g ref="char:EOLhyphen"/>leſs by the great wiſdom of this grave Aſſem<g ref="char:EOLhyphen"/>bly it be timely prevented; for (when we conſider the manifold dangers now upon us, and the long time like to be ſpent before a Perſonall Treaty is like to be had) we may juſtly fear the utter ruine of this once flou<g ref="char:EOLhyphen"/>riſhing Kingdom, eſpecially conſidering the many Armies already on foot in the ſeverall parts thereof, beſides the late falling off of the Ships, which we cannot look upon but as a buſineſs of the greateſt danger which hath yet hapned: for beſides that its a laying flat of our ſtrong Wals, whereby we are expoſed to all forraign Invaſions, the loſs of Trade will be of ſuch conſequence, that we ſhall not need
+<pb n="9" facs="tcp:161910:5"/>
+to fear a ſecond ruine, nor can your Petition<g ref="char:EOLhyphen"/>ers conceive any way how thoſe Ships may be reduced, when their pretence is that the Peace of this Kingdom may be ſettled by a Perſonal Treaty with his Majeſty, which your Petitioners are bold to offer to this honorable Aſſembly, is the ſenſe of all or the greateſt part of the Seamen of England.</p>
+            <q>Wherefore they moſt humbly pray, That there may be a ſpeedy Treaty had, with his Majeſty, for the ſettling of the Peace of this Kingdom, and that in the mean time his Majeſty may be intreated to remove to ſome one of his Houſes, which may be moſt convenient, where he may be with honor, freedom &amp; ſafe<g ref="char:EOLhyphen"/>ty: And your Petitioners ſhall be ready with their Lives and Fortunes, to aſsiſt the honorable Houſes of Parliament againſt all thoſe that ſhall oppoſe the ſame; To all which your Petitioners humbly beg a gracious<g ref="char:punc">▪</g> and ſpeedy An<g ref="char:EOLhyphen"/>ſwer.</q>
+            <q>
+               <hi>Subſcribed by</hi> 468 <hi>Mariners and Seamen, the major part whereof are the moſt eminent Commanders belong<g ref="char:EOLhyphen"/>ing to this Port of</hi> London <hi>and River of</hi> Thames.</q>
+         </div>
+         <div type="petition">
+            <pb n="10" facs="tcp:161910:6"/>
+            <head>TO THE RIGHT HONORABLE THE Lords &amp; Commons Aſſembled in PARLIAMENT,</head>
+            <head type="sub">The humble Petition of the Maſter Wardens and Aſsistants of the Tri<g ref="char:EOLhyphen"/>nity-houſe;</head>
+            <opener>SHEWING,</opener>
+            <p>THat whereas they have received a Pe<g ref="char:EOLhyphen"/>tition from the Younger Brothers of their Corporation, as alſo from many well-affected Seamen, Maſters of Ships and others, therein expreſſing their deſires to pre<g ref="char:EOLhyphen"/>ſent their humble Petition unto this Hono<g ref="char:EOLhyphen"/>rable Houſe, we do in all humble manner ſhew our great apprehenſion of the many diſtempers both by Sea and Land, occaſioned
+<pb n="11" facs="tcp:161910:6"/>
+by the fomenting of a diſcontented party, who dayly take up Arms againſt the Parlia<g ref="char:EOLhyphen"/>ment and Kingdom, which, if not timely prevented by the mercies of God, and wiſdom of Parliament, is like to engage the King<g ref="char:EOLhyphen"/>dom again in a moſt bloody War, both by ſea and Land, to the endangering of the long ex<g ref="char:EOLhyphen"/>pected Peace of the three Kingdoms, the loſſe of Navigation, the obſtructing of Trade, and the utter ruine of many thouſands of Fami<g ref="char:EOLhyphen"/>lies, relating as well to Marine as Land affairs, whoſe whole ſubſiſtance depends upon trade, to and from this Kingdom.</p>
+            <q>In conſideration whereof, they humbly pray This Honorable Houſe to take the Premiſſes into their grave Wiſ<g ref="char:EOLhyphen"/>doms, and that a preſent Perſonal Treaty may be had with his Majeſty, which we humbly conceive, under God, is the only means for ſettling a well-grounded Peace both in Church and State: And by which, with the bleſſing of God on your endevors, the preſent diſtempers may be removed, and the Kingdom again reſtored into
+<pb n="12" facs="tcp:161910:7"/>
+a flouriſhing condition: For which we, with the whole Kingdom, ſhal have great cauſe to acknowledge the Lords great mercy, and our thankful<g ref="char:EOLhyphen"/>neſſe to this Honorable Aſſembly, for all their unwearied pains for the good of theſe almoſt undone Kingdoms; and as we have ever ſhewed our ſelves willing, with the hazard of our Lives and Fortunes, to preſerve the Parlia<g ref="char:EOLhyphen"/>ment, ſo we ſhall be always ready to the utmoſt of our powers, accord<g ref="char:EOLhyphen"/>ing to the Proteſtation and ſolemn League and Covenant, to aſſiſt them in all their juſt undertakings, againſt their and the Kingdoms enemies:</q>
+            <q>And pray &amp;c.</q>
+         </div>
+         <div type="response">
+            <pb n="13" facs="tcp:161910:7"/>
+            <head>
+               <hi>Die Jovis,</hi> 29 <hi>Junii.</hi> 1648.</head>
+            <p>THe Lords have commanded me to return unto you their hearty thanks and acknowledge<g ref="char:EOLhyphen"/>ments, for the good affections you have expreſſed to this Parliament in many former occaſions, as well as in this Petition now preſented: And to your deſires therein contai<g ref="char:EOLhyphen"/>ned, for the ſettling of a well<g ref="char:EOLhyphen"/>grounded Peace, the Lords neither are, nor ſhall at any time be want<g ref="char:EOLhyphen"/>ing to uſe their utmoſt endeavors for the happy and moſt ſpeedy effecting thereof.</p>
+            <closer>
+               <signed>Jo. Brown Cleric. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <div type="response">
+            <pb n="14" facs="tcp:161910:8"/>
+            <head>
+               <hi>Die Jovis,</hi> 29 <hi>Junii.</hi> 1648.</head>
+            <p>THe Houſe hath read the two Petitions preſented by you to them; One of the Maſter Wardens and fellowſhip of Tri<g ref="char:EOLhyphen"/>nity-houſe; the other of the Commanders, Maſters and Mariners of the Shipping be<g ref="char:EOLhyphen"/>longing to the River of Thames; and a third preſented by the Younger Brothers of your Corporation, and others, to your ſelves<g ref="char:punc">▪</g> And as this Houſe calling to mind your former faithful aſſiſtance in this Cauſe, ſo likewiſe by your Petitions they find your readineſſe with your Lives and Fortunes to aſſiſt the Parlia<g ref="char:EOLhyphen"/>ment in all their juſt undertakings, againſt their and the Kingdoms enemies, according to the Proteſtation and Solemn League and Covenant. And in anſwer to your deſires of a Perſonal Treaty with his Majeſty for ſetling a well-grounded Peace both in Church and State; The Houſe hath commanded me to let
+<pb n="15" facs="tcp:161910:8"/>
+you know, that they have the ſame fellow<g ref="char:EOLhyphen"/>feeling with you of the Kingdoms ſuffering by Warr, and the manifold dangers that muſt neceſſarily enſue thereupon, and to aſſure you that they do really deſire, and ſhall faithfully endeavor to obtain a ſafe and well-grounded Peace: And in order thereunto have ſpent a great part of this laſt moneth in conſiderati<g ref="char:EOLhyphen"/>ons of Peace, and have made ſome progreſſe therein: And for the more ſpeedy diſpatch of what further remains to be done, the Hou<g ref="char:EOLhyphen"/>ſes have appointed a Committee to conſider what the King hath formerly offered, and what is further to be offered to the King, for his ſatisfaction, for ſettling of a ſpeedy and well-grounded Peace, and to conſider of time, place and other circumſtances for conveni<g ref="char:EOLhyphen"/>ence of addreſſe to be made to his Majeſty, which Committee are met, and are enjoyned with all poſsible ſpeed to make Report to this Houſe, whereupon they intend ſo effectually to proceed, that by the bleſsing of God a ſafe and well-grounded Peace may be ſpeedily ſettled; And they doubt not, but what they have done and ſhall do herein, will be fully
+<pb n="16" facs="tcp:161910:9"/>
+ſatisfactory, as to your ſelves, ſo to all the wel<g ref="char:EOLhyphen"/>affected Seamen of this Kingdom; And for your good affections to the Parliament and Kingdom, manifeſted by your former actions in the late War, and in your expreſſions and engagements in your preſent Petitions, they have commanded me to give you thanks.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
